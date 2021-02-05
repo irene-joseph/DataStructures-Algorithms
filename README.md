@@ -1,2 +1,2 @@
 # DataStructures-Algorithms
-Implementation of DSA concepts using python programs
+Implementation of DSA concepts using python.
