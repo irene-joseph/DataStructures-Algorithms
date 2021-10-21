@@ -1,3 +1,4 @@
+# returns a sorted array
 def merge_sorted_array(array1,array2):
     if len(array1) == 0:
         return array2
