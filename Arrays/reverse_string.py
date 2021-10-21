@@ -1,6 +1,7 @@
+# method 1
 def reverse(inputstring):
     return inputstring[::-1]
-
+# method 2
 def reverse2(inputstring):
     reversedstring = []
     i = len(inputstring) - 1
@@ -8,7 +9,7 @@ def reverse2(inputstring):
         reversedstring.append(inputstring[i])
         i -= 1
     return ''.join(reversedstring)
-
+# method 3
 def reverse3(inputstring):
     first = 0
     last = len(inputstring) - 1
