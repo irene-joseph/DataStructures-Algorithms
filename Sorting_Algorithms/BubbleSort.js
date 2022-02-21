@@ -1,4 +1,4 @@
-// Bubble Sort
+// BUBBLE SORT
 // Runtime: 0(n^2) average and worst case. 
 // Memory: 0(1).
 /*In bubble sort, we start at the beginning of the array and swap the first two elements if the first is greater
