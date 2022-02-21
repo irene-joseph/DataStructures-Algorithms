@@ -1,4 +1,4 @@
-// Selection Sort
+// SELECTION SORT
 // Runtime: 0(n^2) average and worst case. 
 // Memory: 0(1).
 /*Find the smallest element using a linear scan
