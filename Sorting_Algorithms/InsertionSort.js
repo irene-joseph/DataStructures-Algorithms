@@ -1,3 +1,7 @@
+//INSERTION SORT
+// Runtime: 0(n^2) average and worst case. 
+// Memory: 0(1).
+
 /*Insertion sort is the sorting mechanism where the sorted array is built having one item at a time. 
 The array elements are compared with each other sequentially and then arranged simultaneously in some particular order.*/
 
@@ -21,5 +25,5 @@ function insertionSort(array) {
         }
       }
     }
-	}
+  }
 }
