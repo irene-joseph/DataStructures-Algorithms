@@ -1,3 +1,5 @@
+//QUICK SORT
+
 function quickSort(array, left, right){
   const len = array.length; 
   let pivot;
