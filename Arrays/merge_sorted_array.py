@@ -8,8 +8,3 @@ def merge_sorted_array(array1,array2):
         array1.append(each)
     array1.sort()
     return array1
-
-
-
-
-print(merge_sorted_array([1,5,6],[3,4]))
